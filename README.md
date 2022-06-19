@@ -1,4 +1,4 @@
-### Hi there 👋
+## Cześć, jestem Tobiasz 🙋‍♂️
 
 <!--
 **tmusial99/tmusial99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
