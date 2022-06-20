@@ -1,7 +1,9 @@
-## Witaj świecie! Tobiasz z tej strony 🙋‍♂️
-Jestem studentem informatyki na ostatnim roku w poznańskim Collegium Da Vinci na specjalizacji "Aplikacje internetowe i mobilne". 
+[🇵🇱 You can also read in Polish](https://github.com/tmusial99/tmusial99/blob/main/README_PL.md)
 
-Od długiego czasu interesowałem się projektowaniem i tworzeniem prostych stron internetowych w HTML'u, by po czasie zakochać się w możliwościach jakie dają JavaScriptowe biblioteki do tworzenia aplikacji internetowych.
+## Hello world! Tobiasz here 🙋‍♂️
+I am student of computer science in my last year at Collegium Da Vinci in Poznań, specializing in "Web and mobile applications".
+
+For a long time I've veen interested in designing and creating simple websites with vanilla HTML to fall in love after a while with the possibillities offered by JavaScript libraries for creating web applications.
 
 <img height="15" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" /> JavaScript 💔 => <img height="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TypeScript" title="TypeScript" /> TypeScript 💙
 
@@ -9,18 +11,18 @@ Od długiego czasu interesowałem się projektowaniem i tworzeniem prostych stro
 
 <img height="15" src="https://res.cloudinary.com/practicaldev/image/fetch/s--bFfi21td--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1jezq143vro1kgimsspm.png" alt="NextJS" title="NextJS" /> Next.js 💙
 
-## Moje projekty 🖥️
-[Strona wizytówka dla szkoły nauki jazdy](https://www.expert-dopiewo.pl/)
+## My projects 🖥️
+[Showcase website for driving school](https://www.expert-dopiewo.pl/)
 
-<img width="600" alt="Strona internetowa szkoły Expert Dopiewo" src="https://user-images.githubusercontent.com/50043764/174496473-0855da6c-58c7-47ec-8fb4-b305dd758331.png">
+<img width="600" alt="Showcase website for driving school" src="https://user-images.githubusercontent.com/50043764/174496473-0855da6c-58c7-47ec-8fb4-b305dd758331.png">
 
-[Prosty blog](https://next-js-blog-app-seven.vercel.app/)
+[Simple blog](https://next-js-blog-app-seven.vercel.app/)
 
-<img width="600" alt="Blog" src="https://user-images.githubusercontent.com/50043764/174497108-1efdc4a9-d8fc-4c79-914d-6c5280e9837f.png">
+<img width="600" alt="Simple blog" src="https://user-images.githubusercontent.com/50043764/174497108-1efdc4a9-d8fc-4c79-914d-6c5280e9837f.png">
 
-[Mój główny projekt - ProdBoost](https://prodboost.vercel.app/dashboard)
+[My main project - ProdBoost](https://prodboost.vercel.app/dashboard)
 
-<img width="600" alt="Aplikacja ProdBoost" src="https://user-images.githubusercontent.com/50043764/174497186-8543f7c1-b29b-4ec0-aeb6-95a39a76f7d2.png">
+<img width="600" alt="ProdBoost Application" src="https://user-images.githubusercontent.com/50043764/174497186-8543f7c1-b29b-4ec0-aeb6-95a39a76f7d2.png">
 
 
 
