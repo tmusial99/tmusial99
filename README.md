@@ -3,7 +3,7 @@
 ## Hello world! Tobiasz here 🙋‍♂️
 I am student of computer science in my last year at Collegium Da Vinci in Poznań, specializing in "Web and mobile applications".
 
-For a long time I've veen interested in designing and creating simple websites with vanilla HTML to fall in love after a while with the possibillities offered by JavaScript libraries for creating web applications.
+For a long time I've been interested in designing and creating simple websites with vanilla HTML to fall in love after a while with the possibillities offered by JavaScript libraries for creating web applications.
 
 <img height="15" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" /> JavaScript 💔 => <img height="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TypeScript" title="TypeScript" /> TypeScript 💙
 
