@@ -12,15 +12,15 @@ For a long time I've been interested in designing and creating simple websites w
 <img height="15" src="https://res.cloudinary.com/practicaldev/image/fetch/s--bFfi21td--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1jezq143vro1kgimsspm.png" alt="NextJS" title="NextJS" /> Next.js 💙
 
 ## My projects 🖥️
-[Showcase website for driving school](https://www.expert-dopiewo.pl/)
+[Showcase website for driving school](https://github.com/tmusial99/osk-expert-website)
 
 <img width="600" alt="Showcase website for driving school" src="https://user-images.githubusercontent.com/50043764/174496473-0855da6c-58c7-47ec-8fb4-b305dd758331.png">
 
-[Simple blog](https://next-js-blog-app-seven.vercel.app/)
+[Simple blog](https://github.com/tmusial99/Next.js-blog-app)
 
 <img width="600" alt="Simple blog" src="https://user-images.githubusercontent.com/50043764/174497108-1efdc4a9-d8fc-4c79-914d-6c5280e9837f.png">
 
-[My main project - ProdBoost](https://prodboost.vercel.app/dashboard)
+[My main project - ProdBoost](https://github.com/tmusial99/ProdBoost-and-API-Next.js)
 
 <img width="600" alt="ProdBoost Application" src="https://user-images.githubusercontent.com/50043764/174497186-8543f7c1-b29b-4ec0-aeb6-95a39a76f7d2.png">
 
