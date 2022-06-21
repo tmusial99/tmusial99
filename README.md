@@ -1,7 +1,7 @@
 [🇵🇱 You can also read in Polish](https://github.com/tmusial99/tmusial99/blob/main/README_PL.md)
 
 ## Hello world! Tobiasz here 🙋‍♂️
-I'm a computer science student on my last year at Collegium Da Vinci in Poznań, specializing in "Web and mobile applications".
+I'm an IT and programming student on my last year at Collegium Da Vinci in Poznań, specializing in "Web and mobile applications".
 
 For a long time I've been interested in designing and creating simple websites with vanilla HTML to fall in love, after a while, with the possibillities offered by JavaScript libraries for creating web applications.
 
